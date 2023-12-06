@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Negativos\Negativos\bin\Debug\Negativos.exe.config
+C:\temp\ws-vs2019\Negativos\Negativos\bin\Debug\Negativos.exe
+C:\temp\ws-vs2019\Negativos\Negativos\bin\Debug\Negativos.pdb
+C:\temp\ws-vs2019\Negativos\Negativos\obj\Debug\Negativos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Negativos\Negativos\obj\Debug\Negativos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Negativos\Negativos\obj\Debug\Negativos.exe
+C:\temp\ws-vs2019\Negativos\Negativos\obj\Debug\Negativos.pdb
